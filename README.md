@@ -2,3 +2,4 @@
 
 Goals for Wednesday 
   - implement the base classes (player / enemy class)
+  - makefile (previous assignments) 
